@@ -6,16 +6,8 @@ DuyTan University
 
 # 💻Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Nice-.-&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nice-.-&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nice-.-&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Random Dev Quote
+### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=Nice-.-&icon=4&color=1)](https://visitcount.itsvg.in)
